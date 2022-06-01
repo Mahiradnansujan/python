@@ -1,0 +1,15 @@
+	Welcome MAhirs door ReAtil
+
+ Bill Number :6595
+ Customer Name :mahur
+ Phone Number :93939
+============================================================
+ Products			QTY		Price
+============================================================
+ Chips			1		10
+------------------------------------------------------------
+ Cosmetic    Tax					Tk. 0.0
+ Grocery     Tax					 Tk 1.0
+ Cold drinks Tax					Tk. 0.0
+ Total Bill :					Tk. 11.0
+-----------------------------------------------------------

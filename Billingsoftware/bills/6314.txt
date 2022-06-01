@@ -1,0 +1,20 @@
+	Welcome MAhirs door ReAtil
+
+ Bill Number :6314
+ Customer Name :Akash mamun
+ Phone Number :01521238512
+============================================================
+ Products			QTY		Price
+============================================================
+ Bath Soap			1		40
+ Hair oil			2		420
+ Sugar			1		40
+ Daal			2		160
+ Fanta			1		30
+ Sprite			3		75
+------------------------------------------------------------
+ Cosmetic    Tax					Tk. 23.0
+ Grocery     Tax					 Tk 20.0
+ Cold drinks Tax					Tk. 52.5
+ Total Bill :					Tk. 860.5
+-----------------------------------------------------------

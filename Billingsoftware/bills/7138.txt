@@ -1,0 +1,15 @@
+	Welcome MAhirs door ReAtil
+
+ Bill Number :7138
+ Customer Name :,bd
+ Phone Number :3453
+============================================================
+ Products			QTY		Price
+============================================================
+ Bath Soap			1		40
+------------------------------------------------------------
+ Cosmetic    Tax					Tk. 2.0
+ Grocery     Tax					 Tk 0.0
+ Cold drinks Tax					Tk. 0.0
+ Total Bill :					Tk. 42.0
+-----------------------------------------------------------
